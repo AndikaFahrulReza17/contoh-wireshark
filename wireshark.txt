@@ -1,0 +1,13 @@
+throuhput :
+340883/233389= 1,4605786905124 bytes/s
+1,4605786905124 x 8 = 11,684629524099 bits/s
+
+Packet Lost = 0%/ tidak ada packet yang hilang 
+
+Delay 
+Total Delay : 232.479
+Rata - Rata delay : 0.169693
+
+Jitter
+Total Delay : 232.511
+Rata2 delay : 0.169716
